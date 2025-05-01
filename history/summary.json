@@ -11,10 +11,10 @@
     "uptimeMonth": "99.63%",
     "uptimeYear": "99.22%",
     "time": 1908,
-    "timeDay": 2106,
-    "timeWeek": 2126,
-    "timeMonth": 1772,
-    "timeYear": 1924,
+    "timeDay": 1525,
+    "timeWeek": 1901,
+    "timeMonth": 1765,
+    "timeYear": 1923,
     "dailyMinutesDown": {
       "2025-04-25": 100,
       "2025-04-24": 7,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 174,
-    "timeDay": 266,
-    "timeWeek": 151,
-    "timeMonth": 146,
+    "timeDay": 56,
+    "timeWeek": 147,
+    "timeMonth": 135,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2025-03-19": 30,
@@ -73,13 +73,13 @@
     "uptime": "97.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "95.10%",
-    "uptimeMonth": "94.11%",
+    "uptimeMonth": "94.71%",
     "uptimeYear": "97.67%",
-    "time": 1237,
-    "timeDay": 2432,
-    "timeWeek": 1966,
-    "timeMonth": 1017,
-    "timeYear": 1237,
+    "time": 1261,
+    "timeDay": 7134,
+    "timeWeek": 2531,
+    "timeMonth": 1139,
+    "timeYear": 1261,
     "dailyMinutesDown": {
       "2025-04-28": 125,
       "2025-04-27": 61,
@@ -120,13 +120,13 @@
     "uptime": "97.58%",
     "uptimeDay": "86.62%",
     "uptimeWeek": "92.03%",
-    "uptimeMonth": "92.79%",
+    "uptimeMonth": "93.39%",
     "uptimeYear": "97.58%",
-    "time": 1402,
-    "timeDay": 4488,
-    "timeWeek": 5710,
-    "timeMonth": 2765,
-    "timeYear": 1402,
+    "time": 1415,
+    "timeDay": 4695,
+    "timeWeek": 5914,
+    "timeMonth": 2812,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2025-04-30": 193,
       "2025-04-28": 139,
@@ -162,13 +162,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "73.05%",
+    "uptime": "73.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "78.14%",
+    "uptimeYear": "78.21%",
     "time": 628,
-    "timeDay": 651,
+    "timeDay": 525,
     "timeWeek": 536,
     "timeMonth": 558,
     "timeYear": 628,
@@ -294,8 +294,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -304,15 +303,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "64.41%",
+    "uptime": "64.42%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.82%",
-    "uptimeYear": "78.14%",
+    "uptimeYear": "78.21%",
     "time": 531,
-    "timeDay": 498,
-    "timeWeek": 452,
-    "timeMonth": 499,
+    "timeDay": 396,
+    "timeWeek": 453,
+    "timeMonth": 495,
     "timeYear": 531,
     "dailyMinutesDown": {
       "2025-04-26": 27,
@@ -436,8 +435,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -452,10 +450,10 @@
     "uptimeMonth": "99.64%",
     "uptimeYear": "96.80%",
     "time": 827,
-    "timeDay": 960,
-    "timeWeek": 738,
-    "timeMonth": 796,
-    "timeYear": 824,
+    "timeDay": 759,
+    "timeWeek": 739,
+    "timeMonth": 795,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2025-04-26": 65,
       "2025-04-19": 26,
@@ -530,8 +528,7 @@
       "2024-05-22": 810,
       "2024-05-18": 72,
       "2024-05-11": 60,
-      "2024-05-04": 106,
-      "2024-05-01": 72
+      "2024-05-04": 106
     }
   },
   {
@@ -545,10 +542,10 @@
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.64%",
     "uptimeYear": "96.85%",
-    "time": 1209,
-    "timeDay": 1018,
-    "timeWeek": 775,
-    "timeMonth": 763,
+    "time": 1208,
+    "timeDay": 755,
+    "timeWeek": 777,
+    "timeMonth": 761,
     "timeYear": 1188,
     "dailyMinutesDown": {
       "2025-04-26": 65,
@@ -624,8 +621,7 @@
       "2024-05-22": 357,
       "2024-05-18": 73,
       "2024-05-11": 60,
-      "2024-05-04": 105,
-      "2024-05-01": 72
+      "2024-05-04": 105
     }
   },
   {
@@ -638,12 +634,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.94%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "79.19%",
-    "time": 578,
-    "timeDay": 359,
-    "timeWeek": 375,
+    "uptimeYear": "79.26%",
+    "time": 577,
+    "timeDay": 266,
+    "timeWeek": 372,
     "timeMonth": 327,
-    "timeYear": 566,
+    "timeYear": 565,
     "dailyMinutesDown": {
       "2025-04-25": 100,
       "2025-04-24": 7,
@@ -736,8 +732,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   },
   {
@@ -746,16 +741,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "43.56%",
+    "uptime": "43.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "98.82%",
-    "uptimeYear": "77.28%",
-    "time": 1212,
-    "timeDay": 1434,
-    "timeWeek": 751,
-    "timeMonth": 2292,
-    "timeYear": 1212,
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "77.35%",
+    "time": 1213,
+    "timeDay": 1667,
+    "timeWeek": 891,
+    "timeMonth": 1897,
+    "timeYear": 1213,
     "dailyMinutesDown": {
       "2025-04-26": 27,
       "2025-04-19": 26,
@@ -892,8 +887,7 @@
       "2024-05-05": 1440,
       "2024-05-04": 1440,
       "2024-05-03": 1440,
-      "2024-05-02": 1440,
-      "2024-05-01": 1440
+      "2024-05-02": 1440
     }
   }
 ]
