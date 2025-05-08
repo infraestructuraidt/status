@@ -124,18 +124,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "down",
-    "uptime": "96.55%",
-    "uptimeDay": "91.30%",
-    "uptimeWeek": "53.52%",
-    "uptimeMonth": "87.29%",
-    "uptimeYear": "96.55%",
+    "uptime": "96.54%",
+    "uptimeDay": "88.28%",
+    "uptimeWeek": "53.09%",
+    "uptimeMonth": "87.19%",
+    "uptimeYear": "96.54%",
     "time": 2017,
     "timeDay": 11101,
     "timeWeek": 7876,
     "timeMonth": 5895,
     "timeYear": 2017,
     "dailyMinutesDown": {
-      "2025-05-07": 125,
+      "2025-05-08": 41,
+      "2025-05-07": 128,
       "2025-05-06": 41,
       "2025-05-05": 769,
       "2025-05-04": 1146,
@@ -302,8 +303,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   },
   {
@@ -316,7 +316,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "80.11%",
+    "uptimeYear": "80.12%",
     "time": 531,
     "timeDay": 648,
     "timeWeek": 528,
@@ -438,8 +438,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   },
   {
@@ -541,7 +540,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/uvirtual.unimonserrate.edu.co.ico",
     "slug": "uvirtual",
     "status": "up",
-    "uptime": "98.93%",
+    "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.49%",
     "uptimeMonth": "99.57%",
@@ -638,7 +637,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "81.16%",
+    "uptimeYear": "81.17%",
     "time": 572,
     "timeDay": 346,
     "timeWeek": 283,
@@ -730,8 +729,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   },
   {
@@ -744,7 +742,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "98.86%",
-    "uptimeYear": "79.25%",
+    "uptimeYear": "79.26%",
     "time": 1216,
     "timeDay": 2864,
     "timeWeek": 1346,
@@ -880,8 +878,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   }
 ]
