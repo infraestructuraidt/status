@@ -1,7 +1,7 @@
 url: https://aulasvirtuales.unimonserrate.edu.co/
-status: up
-code: 200
-responseTime: 796
-lastUpdated: 2025-05-09T23:20:43.865Z
+status: down
+code: 502
+responseTime: 403
+lastUpdated: 2025-05-10T06:51:42.148Z
 startTime: 2022-02-07T15:01:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>
