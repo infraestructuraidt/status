@@ -73,7 +73,7 @@
     "status": "up",
     "uptime": "97.54%",
     "uptimeDay": "95.98%",
-    "uptimeWeek": "93.99%",
+    "uptimeWeek": "94.42%",
     "uptimeMonth": "96.83%",
     "uptimeYear": "97.54%",
     "time": 1398,
@@ -126,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "down",
-    "uptime": "96.42%",
-    "uptimeDay": "81.32%",
+    "uptime": "96.41%",
+    "uptimeDay": "77.68%",
     "uptimeWeek": "58.27%",
-    "uptimeMonth": "85.76%",
-    "uptimeYear": "96.42%",
+    "uptimeMonth": "85.64%",
+    "uptimeYear": "96.41%",
     "time": 2449,
     "timeDay": 6322,
     "timeWeek": 8455,
     "timeMonth": 6820,
     "timeYear": 2449,
     "dailyMinutesDown": {
-      "2025-05-09": 269,
+      "2025-05-10": 38,
+      "2025-05-09": 283,
       "2025-05-08": 397,
       "2025-05-07": 128,
       "2025-05-06": 41,
@@ -184,7 +185,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.72%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "80.66%",
+    "uptimeYear": "80.67%",
     "time": 626,
     "timeDay": 534,
     "timeWeek": 567,
@@ -304,8 +305,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   },
   {
@@ -318,7 +318,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "80.65%",
+    "uptimeYear": "80.66%",
     "time": 530,
     "timeDay": 419,
     "timeWeek": 544,
@@ -438,8 +438,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   },
   {
@@ -638,7 +637,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.66%",
-    "uptimeYear": "81.71%",
+    "uptimeYear": "81.72%",
     "time": 571,
     "timeDay": 277,
     "timeWeek": 313,
@@ -728,8 +727,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   },
   {
@@ -738,11 +736,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "44.02%",
+    "uptime": "44.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "79.80%",
+    "uptimeYear": "79.81%",
     "time": 1214,
     "timeDay": 796,
     "timeWeek": 1281,
@@ -876,8 +874,7 @@
       "2024-05-14": 1440,
       "2024-05-13": 1440,
       "2024-05-12": 1440,
-      "2024-05-11": 1440,
-      "2024-05-10": 1440
+      "2024-05-11": 1440
     }
   }
 ]
