@@ -73,7 +73,7 @@
     "slug": "koha-estudiantes",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "85.65%",
+    "uptimeDay": "88.58%",
     "uptimeWeek": "93.56%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "97.67%",
@@ -134,11 +134,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "up",
-    "uptime": "99.19%",
+    "uptime": "99.20%",
     "uptimeDay": "82.58%",
     "uptimeWeek": "91.13%",
     "uptimeMonth": "96.99%",
-    "uptimeYear": "99.19%",
+    "uptimeYear": "99.20%",
     "time": 4234,
     "timeDay": 12257,
     "timeWeek": 11131,
@@ -175,7 +175,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.63%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.86%",
     "time": 618,
     "timeDay": 498,
     "timeWeek": 548,
@@ -262,8 +262,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -276,7 +275,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.45%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "91.85%",
+    "uptimeYear": "91.86%",
     "time": 526,
     "timeDay": 417,
     "timeWeek": 500,
@@ -362,8 +361,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -565,7 +563,7 @@
     "uptimeDay": "98.71%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "92.93%",
+    "uptimeYear": "92.94%",
     "time": 581,
     "timeDay": 3545,
     "timeWeek": 1413,
@@ -616,8 +614,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   },
   {
@@ -630,7 +627,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "90.90%",
+    "uptimeYear": "90.92%",
     "time": 1338,
     "timeDay": 1155,
     "timeWeek": 940,
@@ -732,8 +729,7 @@
       "2024-06-24": 1440,
       "2024-06-23": 1440,
       "2024-06-22": 1440,
-      "2024-06-21": 1440,
-      "2024-06-20": 1440
+      "2024-06-21": 1440
     }
   }
 ]
