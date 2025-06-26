@@ -126,15 +126,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.23%",
-    "uptimeDay": "78.38%",
-    "uptimeWeek": "84.28%",
+    "status": "down",
+    "uptime": "99.24%",
+    "uptimeDay": "78.36%",
+    "uptimeWeek": "84.46%",
     "uptimeMonth": "93.88%",
-    "uptimeYear": "99.23%",
+    "uptimeYear": "99.24%",
     "time": 4355,
     "timeDay": 3086,
-    "timeWeek": 5703,
+    "timeWeek": 5726,
     "timeMonth": 6905,
     "timeYear": 4355,
     "dailyMinutesDown": {
@@ -158,7 +158,7 @@
       "2025-05-15": 196,
       "2025-05-14": 327,
       "2025-05-13": 274,
-      "2025-05-12": 184
+      "2025-05-12": 151
     }
   },
   {
@@ -171,7 +171,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.62%",
-    "uptimeYear": "93.69%",
+    "uptimeYear": "93.70%",
     "time": 620,
     "timeDay": 434,
     "timeWeek": 712,
@@ -357,7 +357,7 @@
     "slug": "aulas-virtuales",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "55.48%",
+    "uptimeDay": "56.91%",
     "uptimeWeek": "30.21%",
     "uptimeMonth": "83.26%",
     "uptimeYear": "95.76%",
