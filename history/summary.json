@@ -125,9 +125,9 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "77.72%",
+    "uptimeDay": "77.70%",
     "uptimeWeek": "83.49%",
     "uptimeMonth": "93.62%",
     "uptimeYear": "99.23%",
@@ -157,7 +157,7 @@
       "2025-05-15": 196,
       "2025-05-14": 327,
       "2025-05-13": 274,
-      "2025-05-12": 79
+      "2025-05-12": 45
     }
   },
   {
@@ -356,7 +356,7 @@
     "slug": "aulas-virtuales",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "77.31%",
+    "uptimeDay": "78.34%",
     "uptimeWeek": "30.21%",
     "uptimeMonth": "83.26%",
     "uptimeYear": "95.76%",
