@@ -70,10 +70,10 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "92.16%",
-    "uptimeWeek": "90.79%",
+    "uptimeDay": "92.04%",
+    "uptimeWeek": "90.78%",
     "uptimeMonth": "93.51%",
     "uptimeYear": "99.31%",
     "time": 2439,
@@ -82,6 +82,7 @@
     "timeMonth": 4716,
     "timeYear": 2439,
     "dailyMinutesDown": {
+      "2025-07-06": 2,
       "2025-07-05": 113,
       "2025-07-04": 56,
       "2025-07-03": 202,
@@ -112,8 +113,7 @@
       "2025-05-15": 17,
       "2025-05-14": 17,
       "2025-05-11": 58,
-      "2025-05-10": 117,
-      "2025-05-09": 24
+      "2025-05-10": 117
     }
   },
   {
@@ -121,12 +121,12 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.25%",
-    "uptimeDay": "59.26%",
-    "uptimeWeek": "81.14%",
-    "uptimeMonth": "91.11%",
-    "uptimeYear": "99.25%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "59.24%",
+    "uptimeWeek": "81.40%",
+    "uptimeMonth": "91.38%",
+    "uptimeYear": "99.27%",
     "time": 5003,
     "timeDay": 12839,
     "timeWeek": 9299,
@@ -147,7 +147,7 @@
       "2025-06-25": 409,
       "2025-06-24": 157,
       "2025-06-23": 106,
-      "2025-06-22": 299
+      "2025-06-22": 179
     }
   },
   {
@@ -160,7 +160,7 @@
     "uptimeDay": "97.01%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "96.27%",
+    "uptimeYear": "96.28%",
     "time": 619,
     "timeDay": 640,
     "timeWeek": 583,
@@ -247,7 +247,7 @@
     "uptimeDay": "97.01%",
     "uptimeWeek": "99.57%",
     "uptimeMonth": "99.57%",
-    "uptimeYear": "96.27%",
+    "uptimeYear": "96.28%",
     "time": 525,
     "timeDay": 496,
     "timeWeek": 407,
