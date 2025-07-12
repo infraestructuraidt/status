@@ -70,10 +70,10 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.11%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "94.10%",
     "uptimeMonth": "92.37%",
     "uptimeYear": "99.36%",
     "time": 2495,
@@ -82,6 +82,7 @@
     "timeMonth": 4575,
     "timeYear": 2495,
     "dailyMinutesDown": {
+      "2025-07-12": 2,
       "2025-07-11": 17,
       "2025-07-10": 29,
       "2025-07-09": 50,
@@ -107,8 +108,7 @@
       "2025-06-19": 207,
       "2025-06-18": 195,
       "2025-06-17": 108,
-      "2025-06-16": 140,
-      "2025-06-04": 25
+      "2025-06-16": 140
     }
   },
   {
@@ -116,15 +116,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "95.95%",
-    "uptimeWeek": "78.42%",
-    "uptimeMonth": "91.03%",
+    "uptimeDay": "96.70%",
+    "uptimeWeek": "78.50%",
+    "uptimeMonth": "91.06%",
     "uptimeYear": "99.25%",
     "time": 5117,
-    "timeDay": 8455,
-    "timeWeek": 7667,
+    "timeDay": 10882,
+    "timeWeek": 7755,
     "timeMonth": 7866,
     "timeYear": 5117,
     "dailyMinutesDown": {
@@ -143,7 +143,7 @@
       "2025-06-30": 24,
       "2025-06-29": 236,
       "2025-06-28": 243,
-      "2025-06-27": 107
+      "2025-06-27": 90
     }
   },
   {
@@ -156,7 +156,7 @@
     "uptimeDay": "95.72%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "97.94%",
+    "uptimeYear": "97.95%",
     "time": 618,
     "timeDay": 577,
     "timeWeek": 554,
@@ -239,7 +239,7 @@
     "uptimeDay": "95.72%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.43%",
-    "uptimeYear": "97.94%",
+    "uptimeYear": "97.95%",
     "time": 524,
     "timeDay": 512,
     "timeWeek": 496,
@@ -518,7 +518,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 568,
     "timeDay": 405,
     "timeWeek": 299,
@@ -560,7 +560,7 @@
     "uptimeDay": "95.71%",
     "uptimeWeek": "98.32%",
     "uptimeMonth": "97.50%",
-    "uptimeYear": "96.91%",
+    "uptimeYear": "96.92%",
     "time": 1329,
     "timeDay": 1188,
     "timeWeek": 934,
