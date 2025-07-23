@@ -118,15 +118,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "75.63%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "75.61%",
     "uptimeWeek": "79.81%",
-    "uptimeMonth": "90.62%",
-    "uptimeYear": "99.22%",
+    "uptimeMonth": "90.70%",
+    "uptimeYear": "99.23%",
     "time": 5162,
     "timeDay": 5547,
-    "timeWeek": 5471,
+    "timeWeek": 5517,
     "timeMonth": 6887,
     "timeYear": 5316,
     "dailyMinutesDown": {
@@ -145,7 +145,7 @@
       "2025-07-11": 107,
       "2025-07-10": 230,
       "2025-07-09": 173,
-      "2025-07-08": 328
+      "2025-07-08": 290
     }
   },
   {
@@ -322,7 +322,7 @@
     "uptime": "98.64%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.04%",
-    "uptimeMonth": "89.82%",
+    "uptimeMonth": "89.95%",
     "uptimeYear": "95.80%",
     "time": 830,
     "timeDay": 679,
@@ -513,7 +513,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "74.70%",
+    "uptime": "74.71%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
