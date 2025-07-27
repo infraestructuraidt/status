@@ -69,11 +69,11 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
-    "uptime": "99.41%",
-    "uptimeDay": "89.43%",
-    "uptimeWeek": "92.24%",
-    "uptimeMonth": "93.12%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "89.39%",
+    "uptimeWeek": "92.23%",
+    "uptimeMonth": "93.11%",
     "uptimeYear": "99.39%",
     "time": 2565,
     "timeDay": 9390,
@@ -81,7 +81,7 @@
     "timeMonth": 4168,
     "timeYear": 2621,
     "dailyMinutesDown": {
-      "2025-07-27": 114,
+      "2025-07-27": 115,
       "2025-07-26": 115,
       "2025-07-25": 130,
       "2025-07-24": 104,
@@ -111,8 +111,7 @@
       "2025-06-30": 26,
       "2025-06-29": 176,
       "2025-06-28": 137,
-      "2025-06-27": 227,
-      "2025-06-26": 21
+      "2025-06-27": 227
     }
   },
   {
