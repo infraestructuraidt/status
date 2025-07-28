@@ -69,10 +69,10 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "97.86%",
-    "uptimeWeek": "92.47%",
+    "status": "down",
+    "uptime": "99.43%",
+    "uptimeDay": "97.82%",
+    "uptimeWeek": "92.46%",
     "uptimeMonth": "93.38%",
     "uptimeYear": "99.40%",
     "time": 2573,
@@ -81,6 +81,7 @@
     "timeMonth": 4000,
     "timeYear": 2631,
     "dailyMinutesDown": {
+      "2025-07-28": 1,
       "2025-07-27": 163,
       "2025-07-26": 115,
       "2025-07-25": 130,
@@ -111,7 +112,7 @@
       "2025-06-30": 26,
       "2025-06-29": 176,
       "2025-06-28": 137,
-      "2025-06-27": 167
+      "2025-06-27": 145
     }
   },
   {
@@ -122,13 +123,13 @@
     "status": "up",
     "uptime": "99.25%",
     "uptimeDay": "91.21%",
-    "uptimeWeek": "75.47%",
+    "uptimeWeek": "75.70%",
     "uptimeMonth": "90.55%",
     "uptimeYear": "99.21%",
     "time": 5296,
     "timeDay": 8068,
-    "timeWeek": 8340,
-    "timeMonth": 7168,
+    "timeWeek": 8122,
+    "timeMonth": 7144,
     "timeYear": 5459,
     "dailyMinutesDown": {
       "2025-07-28": 98,
@@ -237,7 +238,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "66.90%",
+    "uptime": "66.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.47%",
