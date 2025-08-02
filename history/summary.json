@@ -9,12 +9,12 @@
     "uptimeDay": "98.20%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.74%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.36%",
     "time": 1935,
-    "timeDay": 5456,
-    "timeWeek": 2489,
+    "timeDay": 5618,
+    "timeWeek": 2527,
     "timeMonth": 1938,
-    "timeYear": 1940,
+    "timeYear": 1944,
     "dailyMinutesDown": {
       "2025-08-01": 26,
       "2025-07-31": 56,
@@ -38,8 +38,7 @@
       "2024-09-21": 19,
       "2024-09-13": 31,
       "2024-08-10": 38,
-      "2024-08-03": 1255,
-      "2024-08-02": 1440
+      "2024-08-03": 1255
     }
   },
   {
@@ -54,9 +53,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 181,
-    "timeDay": 77,
-    "timeWeek": 199,
-    "timeMonth": 196,
+    "timeDay": 317,
+    "timeWeek": 219,
+    "timeMonth": 198,
     "timeYear": 183,
     "dailyMinutesDown": {
       "2025-06-04": 611,
@@ -73,14 +72,14 @@
     "status": "up",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "88.75%",
+    "uptimeWeek": "89.05%",
     "uptimeMonth": "92.48%",
     "uptimeYear": "99.30%",
-    "time": 2585,
-    "timeDay": 3238,
-    "timeWeek": 5091,
-    "timeMonth": 3811,
-    "timeYear": 2652,
+    "time": 2582,
+    "timeDay": 527,
+    "timeWeek": 5095,
+    "timeMonth": 3729,
+    "timeYear": 2651,
     "dailyMinutesDown": {
       "2025-07-29": 616,
       "2025-07-28": 210,
@@ -123,13 +122,13 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "94.23%",
-    "uptimeWeek": "81.50%",
+    "uptimeWeek": "82.38%",
     "uptimeMonth": "89.36%",
     "uptimeYear": "99.11%",
-    "time": 5446,
-    "timeDay": 8144,
-    "timeWeek": 11113,
-    "timeMonth": 7527,
+    "time": 5441,
+    "timeDay": 3852,
+    "timeWeek": 11002,
+    "timeMonth": 7409,
     "timeYear": 5631,
     "dailyMinutesDown": {
       "2025-08-01": 83,
@@ -162,10 +161,10 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.03%",
     "time": 614,
-    "timeDay": 487,
-    "timeWeek": 515,
-    "timeMonth": 540,
-    "timeYear": 609,
+    "timeDay": 595,
+    "timeWeek": 529,
+    "timeMonth": 542,
+    "timeYear": 610,
     "dailyMinutesDown": {
       "2025-07-26": 33,
       "2025-07-19": 68,
@@ -229,8 +228,7 @@
       "2024-08-31": 26,
       "2024-08-24": 26,
       "2024-08-17": 26,
-      "2024-08-03": 26,
-      "2024-08-02": 475
+      "2024-08-03": 26
     }
   },
   {
@@ -239,15 +237,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "67.01%",
+    "uptime": "67.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.03%",
     "time": 522,
-    "timeDay": 341,
-    "timeWeek": 517,
-    "timeMonth": 464,
+    "timeDay": 467,
+    "timeWeek": 531,
+    "timeMonth": 465,
     "timeYear": 519,
     "dailyMinutesDown": {
       "2025-07-26": 33,
@@ -311,8 +309,7 @@
       "2024-08-31": 26,
       "2024-08-24": 26,
       "2024-08-17": 26,
-      "2024-08-03": 26,
-      "2024-08-02": 475
+      "2024-08-03": 26
     }
   },
   {
@@ -327,9 +324,9 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "95.99%",
     "time": 830,
-    "timeDay": 686,
-    "timeWeek": 903,
-    "timeMonth": 929,
+    "timeDay": 901,
+    "timeWeek": 915,
+    "timeMonth": 934,
     "timeYear": 864,
     "dailyMinutesDown": {
       "2025-07-26": 59,
@@ -407,8 +404,7 @@
       "2024-08-24": 73,
       "2024-08-17": 73,
       "2024-08-10": 81,
-      "2024-08-03": 73,
-      "2024-08-02": 475
+      "2024-08-03": 73
     }
   },
   {
@@ -423,9 +419,9 @@
     "uptimeMonth": "99.22%",
     "uptimeYear": "97.26%",
     "time": 1106,
-    "timeDay": 761,
-    "timeWeek": 964,
-    "timeMonth": 843,
+    "timeDay": 852,
+    "timeWeek": 954,
+    "timeMonth": 847,
     "timeYear": 1055,
     "dailyMinutesDown": {
       "2025-07-26": 59,
@@ -499,8 +495,7 @@
       "2024-08-24": 73,
       "2024-08-17": 73,
       "2024-08-10": 81,
-      "2024-08-03": 73,
-      "2024-08-02": 475
+      "2024-08-03": 73
     }
   },
   {
@@ -515,10 +510,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.23%",
     "time": 557,
-    "timeDay": 292,
-    "timeWeek": 341,
-    "timeMonth": 284,
-    "timeYear": 559,
+    "timeDay": 385,
+    "timeWeek": 353,
+    "timeMonth": 288,
+    "timeYear": 558,
     "dailyMinutesDown": {
       "2025-07-26": 33,
       "2025-06-19": 19,
@@ -540,8 +535,7 @@
       "2024-09-16": 42,
       "2024-09-15": 1440,
       "2024-09-14": 1440,
-      "2024-09-13": 145,
-      "2024-08-02": 475
+      "2024-09-13": 145
     }
   },
   {
@@ -550,15 +544,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "47.78%",
+    "uptime": "47.79%",
     "uptimeDay": "96.93%",
     "uptimeWeek": "99.24%",
     "uptimeMonth": "98.33%",
     "uptimeYear": "97.01%",
-    "time": 1299,
-    "timeDay": 446,
-    "timeWeek": 634,
-    "timeMonth": 753,
+    "time": 1298,
+    "timeDay": 525,
+    "timeWeek": 644,
+    "timeMonth": 757,
     "timeYear": 1294,
     "dailyMinutesDown": {
       "2025-08-01": 44,
@@ -639,8 +633,7 @@
       "2024-08-24": 54,
       "2024-08-17": 53,
       "2024-08-10": 47,
-      "2024-08-03": 78,
-      "2024-08-02": 475
+      "2024-08-03": 78
     }
   }
 ]
