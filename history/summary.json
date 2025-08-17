@@ -10,11 +10,11 @@
     "uptimeWeek": "99.54%",
     "uptimeMonth": "97.38%",
     "uptimeYear": "99.67%",
-    "time": 1920,
-    "timeDay": 1505,
-    "timeWeek": 1251,
-    "timeMonth": 1780,
-    "timeYear": 1879,
+    "time": 1919,
+    "timeDay": 1413,
+    "timeWeek": 1254,
+    "timeMonth": 1778,
+    "timeYear": 1877,
     "dailyMinutesDown": {
       "2025-08-14": 20,
       "2025-08-12": 26,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 181,
+    "time": 180,
     "timeDay": 107,
     "timeWeek": 103,
-    "timeMonth": 175,
-    "timeYear": 184,
+    "timeMonth": 174,
+    "timeYear": 183,
     "dailyMinutesDown": {
       "2025-06-04": 611,
       "2025-03-19": 30,
@@ -77,10 +77,10 @@
     "uptimeWeek": "99.63%",
     "uptimeMonth": "95.40%",
     "uptimeYear": "99.30%",
-    "time": 2547,
-    "timeDay": 280,
-    "timeWeek": 1644,
-    "timeMonth": 2958,
+    "time": 2544,
+    "timeDay": 324,
+    "timeWeek": 1643,
+    "timeMonth": 2940,
     "timeYear": 2641,
     "dailyMinutesDown": {
       "2025-08-16": 37,
@@ -124,18 +124,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "up",
-    "uptime": "99.21%",
-    "uptimeDay": "70.18%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "89.64%",
-    "uptimeYear": "99.14%",
-    "time": 5417,
-    "timeDay": 7069,
-    "timeWeek": 5792,
-    "timeMonth": 6879,
-    "timeYear": 5660,
+    "uptime": "99.20%",
+    "uptimeDay": "75.84%",
+    "uptimeWeek": "94.69%",
+    "uptimeMonth": "89.48%",
+    "uptimeYear": "99.12%",
+    "time": 5412,
+    "timeDay": 6938,
+    "timeWeek": 5756,
+    "timeMonth": 6905,
+    "timeYear": 5659,
     "dailyMinutesDown": {
-      "2025-08-16": 406,
+      "2025-08-16": 395,
       "2025-08-15": 24,
       "2025-08-11": 92,
       "2025-08-10": 26,
@@ -154,7 +154,8 @@
       "2025-07-24": 399,
       "2025-07-23": 302,
       "2025-07-22": 350,
-      "2025-07-21": 485
+      "2025-07-21": 558,
+      "2025-07-20": 9
     }
   },
   {
@@ -168,10 +169,10 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.11%",
-    "time": 611,
-    "timeDay": 452,
-    "timeWeek": 486,
-    "timeMonth": 524,
+    "time": 610,
+    "timeDay": 471,
+    "timeWeek": 473,
+    "timeMonth": 526,
     "timeYear": 606,
     "dailyMinutesDown": {
       "2025-08-16": 42,
@@ -237,8 +238,7 @@
       "2024-09-13": 55,
       "2024-09-07": 26,
       "2024-08-31": 26,
-      "2024-08-24": 26,
-      "2024-08-17": 26
+      "2024-08-24": 26
     }
   },
   {
@@ -253,8 +253,8 @@
     "uptimeMonth": "99.54%",
     "uptimeYear": "98.10%",
     "time": 520,
-    "timeDay": 546,
-    "timeWeek": 438,
+    "timeDay": 550,
+    "timeWeek": 431,
     "timeMonth": 479,
     "timeYear": 516,
     "dailyMinutesDown": {
@@ -320,8 +320,7 @@
       "2024-09-13": 55,
       "2024-09-07": 26,
       "2024-08-31": 26,
-      "2024-08-24": 26,
-      "2024-08-17": 26
+      "2024-08-24": 26
     }
   },
   {
@@ -337,9 +336,9 @@
     "uptimeYear": "96.07%",
     "time": 832,
     "timeDay": 750,
-    "timeWeek": 786,
-    "timeMonth": 815,
-    "timeYear": 864,
+    "timeWeek": 783,
+    "timeMonth": 814,
+    "timeYear": 863,
     "dailyMinutesDown": {
       "2025-08-16": 68,
       "2025-08-14": 31,
@@ -417,8 +416,7 @@
       "2024-09-12": 648,
       "2024-09-07": 515,
       "2024-08-31": 74,
-      "2024-08-24": 73,
-      "2024-08-17": 73
+      "2024-08-24": 73
     }
   },
   {
@@ -433,8 +431,8 @@
     "uptimeMonth": "99.12%",
     "uptimeYear": "97.33%",
     "time": 1083,
-    "timeDay": 904,
-    "timeWeek": 903,
+    "timeDay": 912,
+    "timeWeek": 900,
     "timeMonth": 863,
     "timeYear": 1049,
     "dailyMinutesDown": {
@@ -510,8 +508,7 @@
       "2024-09-12": 648,
       "2024-09-07": 515,
       "2024-08-31": 74,
-      "2024-08-24": 73,
-      "2024-08-17": 73
+      "2024-08-24": 73
     }
   },
   {
@@ -520,15 +517,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "75.20%",
+    "uptime": "75.21%",
     "uptimeDay": "97.04%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.30%",
     "time": 549,
-    "timeDay": 314,
-    "timeWeek": 291,
-    "timeMonth": 303,
+    "timeDay": 271,
+    "timeWeek": 290,
+    "timeMonth": 305,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-08-16": 43,
@@ -568,11 +565,11 @@
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "97.10%",
-    "time": 1284,
-    "timeDay": 985,
-    "timeWeek": 776,
-    "timeMonth": 771,
-    "timeYear": 1249,
+    "time": 1285,
+    "timeDay": 1501,
+    "timeWeek": 808,
+    "timeMonth": 799,
+    "timeYear": 1251,
     "dailyMinutesDown": {
       "2025-08-16": 43,
       "2025-08-09": 29,
@@ -652,8 +649,7 @@
       "2024-08-31": 26,
       "2024-08-30": 377,
       "2024-08-26": 86,
-      "2024-08-24": 54,
-      "2024-08-17": 53
+      "2024-08-24": 54
     }
   }
 ]
