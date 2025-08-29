@@ -130,7 +130,7 @@
     "slug": "koha-administrativos",
     "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "85.08%",
+    "uptimeDay": "85.04%",
     "uptimeWeek": "93.61%",
     "uptimeMonth": "96.00%",
     "uptimeYear": "99.19%",
@@ -140,7 +140,7 @@
     "timeMonth": 6398,
     "timeYear": 5791,
     "dailyMinutesDown": {
-      "2025-08-29": 142,
+      "2025-08-29": 143,
       "2025-08-28": 237,
       "2025-08-27": 42,
       "2025-08-26": 113,
