@@ -75,9 +75,9 @@
     "slug": "koha-estudiantes",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "97.96%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "98.68%",
+    "uptimeMonth": "99.48%",
     "uptimeYear": "99.29%",
     "time": 2514,
     "timeDay": 1015,
@@ -85,7 +85,7 @@
     "timeMonth": 1352,
     "timeYear": 2587,
     "dailyMinutesDown": {
-      "2025-08-29": 30,
+      "2025-08-29": 16,
       "2025-08-26": 113,
       "2025-08-25": 4,
       "2025-08-17": 28,
@@ -120,7 +120,7 @@
       "2025-07-03": 202,
       "2025-07-02": 157,
       "2025-07-01": 197,
-      "2025-06-30": 8
+      "2025-06-30": 26
     }
   },
   {
@@ -130,9 +130,9 @@
     "slug": "koha-administrativos",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "80.21%",
-    "uptimeWeek": "92.20%",
-    "uptimeMonth": "95.85%",
+    "uptimeDay": "81.12%",
+    "uptimeWeek": "92.33%",
+    "uptimeMonth": "95.88%",
     "uptimeYear": "99.17%",
     "time": 5522,
     "timeDay": 12313,
@@ -140,7 +140,7 @@
     "timeMonth": 6798,
     "timeYear": 5835,
     "dailyMinutesDown": {
-      "2025-08-29": 284,
+      "2025-08-29": 271,
       "2025-08-28": 237,
       "2025-08-27": 42,
       "2025-08-26": 113,
@@ -163,7 +163,7 @@
       "2025-07-26": 332,
       "2025-07-25": 431,
       "2025-07-24": 399,
-      "2025-07-23": 124
+      "2025-07-23": 153
     }
   },
   {
@@ -255,7 +255,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "67.72%",
+    "uptime": "67.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.71%",
@@ -658,8 +658,7 @@
       "2024-09-14": 111,
       "2024-09-13": 55,
       "2024-09-07": 26,
-      "2024-08-31": 26,
-      "2024-08-30": 377
+      "2024-08-31": 26
     }
   }
 ]
