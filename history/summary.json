@@ -130,9 +130,9 @@
     "slug": "koha-administrativos",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "97.36%",
-    "uptimeWeek": "89.85%",
-    "uptimeMonth": "95.58%",
+    "uptimeDay": "98.20%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "95.61%",
     "uptimeYear": "99.15%",
     "time": 5533,
     "timeDay": 3534,
@@ -140,7 +140,7 @@
     "timeMonth": 6350,
     "timeYear": 5853,
     "dailyMinutesDown": {
-      "2025-08-31": 38,
+      "2025-08-31": 26,
       "2025-08-30": 212,
       "2025-08-29": 271,
       "2025-08-28": 237,
@@ -164,7 +164,8 @@
       "2025-07-27": 293,
       "2025-07-26": 332,
       "2025-07-25": 431,
-      "2025-07-24": 399
+      "2025-07-24": 399,
+      "2025-07-23": 24
     }
   },
   {
@@ -573,7 +574,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "49.01%",
+    "uptime": "49.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.49%",
