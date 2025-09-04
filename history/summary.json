@@ -131,15 +131,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "80.47%",
-    "uptimeWeek": "87.25%",
+    "status": "down",
+    "uptime": "99.32%",
+    "uptimeDay": "80.44%",
+    "uptimeWeek": "87.62%",
     "uptimeMonth": "94.50%",
     "uptimeYear": "99.21%",
     "time": 5596,
-    "timeDay": 10015,
-    "timeWeek": 8685,
+    "timeDay": 10729,
+    "timeWeek": 8910,
     "timeMonth": 6947,
     "timeYear": 5926,
     "dailyMinutesDown": {
@@ -168,7 +168,7 @@
       "2025-07-29": 647,
       "2025-07-28": 302,
       "2025-07-27": 293,
-      "2025-07-26": 170
+      "2025-07-26": 139
     }
   },
   {
@@ -177,7 +177,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "75.65%",
+    "uptime": "75.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.66%",
@@ -260,7 +260,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "67.86%",
+    "uptime": "67.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.66%",
