@@ -135,15 +135,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "98.04%",
+    "status": "down",
+    "uptime": "99.42%",
+    "uptimeDay": "98.02%",
     "uptimeWeek": "94.63%",
     "uptimeMonth": "92.50%",
-    "uptimeYear": "99.29%",
+    "uptimeYear": "99.31%",
     "time": 5708,
     "timeDay": 9111,
-    "timeWeek": 8746,
+    "timeWeek": 8964,
     "timeMonth": 7457,
     "timeYear": 6088,
     "dailyMinutesDown": {
@@ -171,8 +171,7 @@
       "2025-08-26": 113,
       "2025-08-25": 111,
       "2025-08-17": 48,
-      "2025-08-16": 395,
-      "2025-08-15": 2
+      "2025-08-16": 268
     }
   },
   {
