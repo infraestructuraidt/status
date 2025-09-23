@@ -77,19 +77,19 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "95.94%",
-    "uptimeWeek": "99.04%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "98.98%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 2636,
     "timeDay": 2641,
     "timeWeek": 3684,
     "timeMonth": 3883,
     "timeYear": 2780,
     "dailyMinutesDown": {
-      "2025-09-23": 59,
+      "2025-09-23": 61,
       "2025-09-19": 23,
       "2025-09-17": 15,
       "2025-09-08": 20,
@@ -128,8 +128,7 @@
       "2025-07-07": 168,
       "2025-07-06": 123,
       "2025-07-05": 113,
-      "2025-07-04": 56,
-      "2025-07-03": 29
+      "2025-07-04": 56
     }
   },
   {
@@ -137,12 +136,12 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
-    "uptimeDay": "97.08%",
-    "uptimeWeek": "97.34%",
+    "uptimeDay": "97.05%",
+    "uptimeWeek": "97.33%",
     "uptimeMonth": "91.95%",
-    "uptimeYear": "99.31%",
+    "uptimeYear": "99.32%",
     "time": 5750,
     "timeDay": 7009,
     "timeWeek": 8299,
@@ -176,8 +175,7 @@
       "2025-08-27": 42,
       "2025-08-26": 113,
       "2025-08-25": 111,
-      "2025-08-17": 48,
-      "2025-08-16": 28
+      "2025-08-17": 48
     }
   },
   {
@@ -587,9 +585,9 @@
     "slug": "reportes",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "97.21%",
     "time": 1305,
     "timeDay": 9553,
@@ -597,7 +595,6 @@
     "timeMonth": 1645,
     "timeYear": 1295,
     "dailyMinutesDown": {
-      "2025-09-23": 13,
       "2025-09-20": 43,
       "2025-09-13": 50,
       "2025-09-08": 23,
