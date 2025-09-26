@@ -78,17 +78,16 @@
     "slug": "koha-estudiantes",
     "status": "up",
     "uptime": "99.45%",
-    "uptimeDay": "99.18%",
-    "uptimeWeek": "99.08%",
-    "uptimeMonth": "99.22%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.25%",
+    "uptimeYear": "99.33%",
     "time": 2630,
     "timeDay": 363,
     "timeWeek": 2785,
     "timeMonth": 3910,
     "timeYear": 2780,
     "dailyMinutesDown": {
-      "2025-09-26": 12,
       "2025-09-23": 59,
       "2025-09-19": 23,
       "2025-09-17": 15,
@@ -128,7 +127,8 @@
       "2025-07-07": 168,
       "2025-07-06": 123,
       "2025-07-05": 113,
-      "2025-07-04": 56
+      "2025-07-04": 56,
+      "2025-07-03": 29
     }
   },
   {
@@ -136,15 +136,15 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "98.42%",
-    "uptimeWeek": "97.47%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "98.39%",
+    "uptimeWeek": "97.46%",
     "uptimeMonth": "92.18%",
     "uptimeYear": "99.32%",
     "time": 5783,
     "timeDay": 1027,
-    "timeWeek": 8617,
+    "timeWeek": 8972,
     "timeMonth": 7760,
     "timeYear": 6199,
     "dailyMinutesDown": {
@@ -175,7 +175,7 @@
       "2025-08-28": 237,
       "2025-08-27": 42,
       "2025-08-26": 113,
-      "2025-08-25": 49
+      "2025-08-25": 31
     }
   },
   {
@@ -267,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "68.39%",
+    "uptime": "68.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.61%",
@@ -585,7 +585,7 @@
     "slug": "reportes",
     "status": "up",
     "uptime": "99.08%",
-    "uptimeDay": "71.65%",
+    "uptimeDay": "81.09%",
     "uptimeWeek": "86.71%",
     "uptimeMonth": "96.60%",
     "uptimeYear": "96.96%",
