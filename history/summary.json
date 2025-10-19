@@ -78,10 +78,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.52%",
+    "uptime": "99.47%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.33%",
     "time": 2735,
     "timeDay": 386,
@@ -89,7 +89,6 @@
     "timeMonth": 3523,
     "timeYear": 2901,
     "dailyMinutesDown": {
-      "2025-10-19": 12,
       "2025-10-15": 26,
       "2025-10-10": 39,
       "2025-10-06": 23,
@@ -132,7 +131,7 @@
       "2025-07-08": 113,
       "2025-07-07": 168,
       "2025-07-06": 123,
-      "2025-07-05": 52
+      "2025-07-05": 69
     }
   },
   {
@@ -140,13 +139,13 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
-    "uptime": "99.46%",
-    "uptimeDay": "93.13%",
+    "status": "down",
+    "uptime": "99.47%",
+    "uptimeDay": "93.11%",
     "uptimeWeek": "95.06%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.32%",
-    "time": 6092,
+    "time": 6096,
     "timeDay": 12600,
     "timeWeek": 9291,
     "timeMonth": 9123,
@@ -185,8 +184,7 @@
       "2025-09-06": 11,
       "2025-09-05": 227,
       "2025-09-04": 265,
-      "2025-09-03": 254,
-      "2025-09-01": 15
+      "2025-09-03": 254
     }
   },
   {
