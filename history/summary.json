@@ -79,10 +79,10 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
-    "uptime": "99.48%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.48%",
+    "status": "down",
+    "uptime": "99.49%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.46%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.33%",
     "time": 2666,
@@ -91,6 +91,7 @@
     "timeMonth": 3634,
     "timeYear": 2911,
     "dailyMinutesDown": {
+      "2025-10-29": 2,
       "2025-10-25": 30,
       "2025-10-24": 22,
       "2025-10-15": 26,
@@ -134,8 +135,7 @@
       "2025-07-09": 50,
       "2025-07-08": 113,
       "2025-07-07": 168,
-      "2025-07-06": 123,
-      "2025-07-05": 31
+      "2025-07-06": 123
     }
   },
   {
@@ -143,18 +143,19 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "97.93%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "98.31%",
     "uptimeMonth": "97.25%",
     "uptimeYear": "99.34%",
     "time": 5999,
     "timeDay": 7017,
-    "timeWeek": 6536,
+    "timeWeek": 6461,
     "timeMonth": 8613,
     "timeYear": 6555,
     "dailyMinutesDown": {
+      "2025-10-29": 0,
       "2025-10-26": 52,
       "2025-10-25": 29,
       "2025-10-24": 89,
@@ -192,7 +193,7 @@
       "2025-09-07": 380,
       "2025-09-06": 11,
       "2025-09-05": 227,
-      "2025-09-04": 98
+      "2025-09-04": 69
     }
   },
   {
@@ -201,7 +202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "76.66%",
+    "uptime": "76.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.57%",
@@ -283,7 +284,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "69.18%",
+    "uptime": "69.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.57%",
