@@ -143,18 +143,19 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.96%",
     "uptimeWeek": "97.21%",
     "uptimeMonth": "97.00%",
-    "uptimeYear": "99.33%",
+    "uptimeYear": "99.34%",
     "time": 5996,
     "timeDay": 20879,
     "timeWeek": 6145,
     "timeMonth": 8525,
     "timeYear": 6556,
     "dailyMinutesDown": {
+      "2025-10-31": 1,
       "2025-10-29": 110,
       "2025-10-26": 52,
       "2025-10-25": 29,
@@ -192,7 +193,7 @@
       "2025-09-08": 199,
       "2025-09-07": 380,
       "2025-09-06": 11,
-      "2025-09-05": 227
+      "2025-09-05": 206
     }
   },
   {
@@ -201,7 +202,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "76.69%",
+    "uptime": "76.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.57%",
