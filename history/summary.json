@@ -79,11 +79,11 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.63%",
-    "uptimeMonth": "99.60%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.59%",
     "uptimeYear": "99.33%",
     "time": 2675,
     "timeDay": 3152,
@@ -91,6 +91,7 @@
     "timeMonth": 2933,
     "timeYear": 2934,
     "dailyMinutesDown": {
+      "2025-11-03": 2,
       "2025-10-29": 37,
       "2025-10-25": 30,
       "2025-10-24": 22,
@@ -135,7 +136,7 @@
       "2025-07-09": 50,
       "2025-07-08": 113,
       "2025-07-07": 168,
-      "2025-07-06": 123
+      "2025-07-06": 87
     }
   },
   {
@@ -143,13 +144,13 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "85.95%",
+    "uptimeDay": "85.92%",
     "uptimeWeek": "95.48%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "99.30%",
-    "time": 6013,
+    "time": 6017,
     "timeDay": 3124,
     "timeWeek": 5204,
     "timeMonth": 7877,
@@ -196,7 +197,7 @@
       "2025-09-08": 199,
       "2025-09-07": 380,
       "2025-09-06": 11,
-      "2025-09-05": 63
+      "2025-09-05": 47
     }
   },
   {
@@ -205,7 +206,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "76.74%",
+    "uptime": "76.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.40%",
@@ -287,7 +288,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "69.29%",
+    "uptime": "69.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.27%",
     "uptimeMonth": "99.40%",
@@ -611,7 +612,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/reportes.unimonserrate.edu.co.ico",
     "slug": "reportes",
     "status": "up",
-    "uptime": "99.12%",
+    "uptime": "99.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.35%",
