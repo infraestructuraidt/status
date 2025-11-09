@@ -6,15 +6,15 @@
     "slug": "sitio-web-unimonserrate",
     "status": "up",
     "uptime": "99.61%",
-    "uptimeDay": "93.18%",
+    "uptimeDay": "94.30%",
     "uptimeWeek": "98.21%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.57%",
-    "time": 1905,
-    "timeDay": 4322,
-    "timeWeek": 2830,
-    "timeMonth": 2249,
-    "timeYear": 1829,
+    "time": 1904,
+    "timeDay": 4741,
+    "timeWeek": 2922,
+    "timeMonth": 2242,
+    "timeYear": 1830,
     "dailyMinutesDown": {
       "2025-11-08": 82,
       "2025-11-07": 49,
@@ -69,10 +69,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.88%",
     "time": 187,
-    "timeDay": 269,
-    "timeWeek": 218,
-    "timeMonth": 225,
-    "timeYear": 192,
+    "timeDay": 295,
+    "timeWeek": 219,
+    "timeMonth": 229,
+    "timeYear": 193,
     "dailyMinutesDown": {
       "2025-06-04": 611,
       "2025-03-19": 30
@@ -89,11 +89,11 @@
     "uptimeWeek": "99.14%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.33%",
-    "time": 2658,
-    "timeDay": 541,
-    "timeWeek": 2757,
-    "timeMonth": 2374,
-    "timeYear": 2922,
+    "time": 2657,
+    "timeDay": 2093,
+    "timeWeek": 1118,
+    "timeMonth": 2411,
+    "timeYear": 2924,
     "dailyMinutesDown": {
       "2025-11-06": 28,
       "2025-11-04": 30,
@@ -152,17 +152,16 @@
     "slug": "koha-administrativos",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "97.35%",
-    "uptimeMonth": "96.43%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "97.46%",
+    "uptimeMonth": "96.46%",
     "uptimeYear": "99.30%",
-    "time": 6055,
-    "timeDay": 10625,
-    "timeWeek": 6281,
-    "timeMonth": 7063,
-    "timeYear": 6579,
+    "time": 6056,
+    "timeDay": 2485,
+    "timeWeek": 4960,
+    "timeMonth": 7085,
+    "timeYear": 6581,
     "dailyMinutesDown": {
-      "2025-11-08": 11,
       "2025-11-06": 26,
       "2025-11-03": 136,
       "2025-11-02": 94,
@@ -204,7 +203,8 @@
       "2025-09-09": 72,
       "2025-09-08": 199,
       "2025-09-07": 380,
-      "2025-09-06": 11
+      "2025-09-06": 11,
+      "2025-09-05": 28
     }
   },
   {
@@ -219,9 +219,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.10%",
     "time": 600,
-    "timeDay": 542,
-    "timeWeek": 537,
-    "timeMonth": 569,
+    "timeDay": 507,
+    "timeWeek": 528,
+    "timeMonth": 568,
     "timeYear": 593,
     "dailyMinutesDown": {
       "2025-11-08": 76,
@@ -286,8 +286,7 @@
       "2024-12-07": 42,
       "2024-11-30": 44,
       "2024-11-23": 27,
-      "2024-11-16": 26,
-      "2024-11-09": 123
+      "2024-11-16": 26
     }
   },
   {
@@ -302,8 +301,8 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "98.10%",
     "time": 509,
-    "timeDay": 516,
-    "timeWeek": 436,
+    "timeDay": 496,
+    "timeWeek": 429,
     "timeMonth": 452,
     "timeYear": 494,
     "dailyMinutesDown": {
@@ -368,8 +367,7 @@
       "2024-12-07": 42,
       "2024-11-30": 44,
       "2024-11-23": 27,
-      "2024-11-16": 26,
-      "2024-11-09": 122
+      "2024-11-16": 26
     }
   },
   {
@@ -384,10 +382,10 @@
     "uptimeMonth": "98.83%",
     "uptimeYear": "96.07%",
     "time": 858,
-    "timeDay": 678,
-    "timeWeek": 761,
-    "timeMonth": 776,
-    "timeYear": 849,
+    "timeDay": 619,
+    "timeWeek": 749,
+    "timeMonth": 777,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-11-08": 99,
       "2025-11-01": 97,
@@ -470,8 +468,7 @@
       "2024-12-07": 80,
       "2024-11-30": 65,
       "2024-11-23": 89,
-      "2024-11-16": 65,
-      "2024-11-09": 143
+      "2024-11-16": 65
     }
   },
   {
@@ -480,15 +477,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/uvirtual.unimonserrate.edu.co.ico",
     "slug": "uvirtual",
     "status": "up",
-    "uptime": "99.18%",
+    "uptime": "99.19%",
     "uptimeDay": "93.09%",
     "uptimeWeek": "99.01%",
     "uptimeMonth": "98.83%",
     "uptimeYear": "97.64%",
     "time": 1016,
-    "timeDay": 691,
-    "timeWeek": 764,
-    "timeMonth": 821,
+    "timeDay": 666,
+    "timeWeek": 753,
+    "timeMonth": 822,
     "timeYear": 988,
     "dailyMinutesDown": {
       "2025-11-08": 99,
@@ -567,8 +564,7 @@
       "2024-12-07": 80,
       "2024-11-30": 65,
       "2024-11-23": 89,
-      "2024-11-16": 65,
-      "2024-11-09": 142
+      "2024-11-16": 65
     }
   },
   {
@@ -577,16 +573,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "76.75%",
+    "uptime": "76.76%",
     "uptimeDay": "94.73%",
     "uptimeWeek": "99.25%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.79%",
-    "time": 513,
-    "timeDay": 345,
-    "timeWeek": 347,
-    "timeMonth": 359,
-    "timeYear": 408,
+    "time": 512,
+    "timeDay": 330,
+    "timeWeek": 345,
+    "timeMonth": 360,
+    "timeYear": 409,
     "dailyMinutesDown": {
       "2025-11-08": 76,
       "2025-11-01": 74,
@@ -630,10 +626,10 @@
     "uptimeMonth": "99.27%",
     "uptimeYear": "96.93%",
     "time": 1318,
-    "timeDay": 574,
-    "timeWeek": 835,
-    "timeMonth": 1761,
-    "timeYear": 1410,
+    "timeDay": 1055,
+    "timeWeek": 781,
+    "timeMonth": 1762,
+    "timeYear": 1412,
     "dailyMinutesDown": {
       "2025-11-08": 76,
       "2025-11-01": 74,
@@ -714,8 +710,7 @@
       "2024-12-07": 42,
       "2024-11-30": 45,
       "2024-11-23": 27,
-      "2024-11-16": 26,
-      "2024-11-09": 122
+      "2024-11-16": 26
     }
   }
 ]
