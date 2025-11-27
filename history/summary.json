@@ -169,18 +169,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "up",
-    "uptime": "99.49%",
-    "uptimeDay": "85.14%",
-    "uptimeWeek": "96.52%",
-    "uptimeMonth": "97.10%",
-    "uptimeYear": "99.30%",
+    "uptime": "99.48%",
+    "uptimeDay": "88.90%",
+    "uptimeWeek": "96.63%",
+    "uptimeMonth": "97.12%",
+    "uptimeYear": "99.29%",
     "time": 6030,
     "timeDay": 8250,
     "timeWeek": 6829,
     "timeMonth": 6582,
     "timeYear": 6696,
     "dailyMinutesDown": {
-      "2025-11-26": 212,
+      "2025-11-26": 201,
       "2025-11-25": 72,
       "2025-11-22": 27,
       "2025-11-21": 41,
@@ -225,7 +225,7 @@
       "2025-09-13": 26,
       "2025-09-12": 283,
       "2025-09-11": 16,
-      "2025-09-10": 76
+      "2025-09-10": 150
     }
   },
   {
@@ -317,7 +317,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "69.80%",
+    "uptime": "69.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.51%",
     "uptimeMonth": "98.68%",
