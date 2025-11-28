@@ -6,17 +6,17 @@
     "slug": "sitio-web-unimonserrate",
     "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "94.07%",
-    "uptimeWeek": "93.98%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "93.19%",
+    "uptimeWeek": "93.85%",
+    "uptimeMonth": "97.54%",
+    "uptimeYear": "99.40%",
     "time": 1894,
     "timeDay": 2834,
     "timeWeek": 1779,
-    "timeMonth": 1914,
-    "timeYear": 1798,
+    "timeMonth": 1916,
+    "timeYear": 1799,
     "dailyMinutesDown": {
-      "2025-11-28": 0,
+      "2025-11-28": 13,
       "2025-11-27": 142,
       "2025-11-26": 18,
       "2025-11-25": 201,
@@ -100,9 +100,9 @@
     "slug": "koha-estudiantes",
     "status": "up",
     "uptime": "99.50%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.39%",
-    "uptimeMonth": "98.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "98.86%",
     "uptimeYear": "99.31%",
     "time": 2698,
     "timeDay": 532,
@@ -110,7 +110,6 @@
     "timeMonth": 2820,
     "timeYear": 2959,
     "dailyMinutesDown": {
-      "2025-11-28": 12,
       "2025-11-26": 27,
       "2025-11-25": 22,
       "2025-11-18": 178,
@@ -162,7 +161,8 @@
       "2025-07-12": 98,
       "2025-07-11": 17,
       "2025-07-10": 29,
-      "2025-07-09": 50
+      "2025-07-09": 50,
+      "2025-07-08": 25
     }
   },
   {
@@ -170,9 +170,9 @@
     "url": "https://unimonserrate-library-intra.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.49%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "96.30%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "99.30%",
@@ -182,6 +182,7 @@
     "timeMonth": 6656,
     "timeYear": 6701,
     "dailyMinutesDown": {
+      "2025-11-28": 0,
       "2025-11-27": 33,
       "2025-11-26": 201,
       "2025-11-25": 72,
@@ -228,7 +229,7 @@
       "2025-09-13": 26,
       "2025-09-12": 283,
       "2025-09-11": 16,
-      "2025-09-10": 76
+      "2025-09-10": 60
     }
   },
   {
@@ -237,7 +238,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "77.16%",
+    "uptime": "77.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.26%",
     "uptimeMonth": "99.24%",
