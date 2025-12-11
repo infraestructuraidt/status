@@ -183,9 +183,9 @@
     "slug": "koha-administrativos",
     "status": "up",
     "uptime": "99.46%",
-    "uptimeDay": "91.23%",
-    "uptimeWeek": "95.74%",
-    "uptimeMonth": "95.80%",
+    "uptimeDay": "92.10%",
+    "uptimeWeek": "95.86%",
+    "uptimeMonth": "95.83%",
     "uptimeYear": "99.24%",
     "time": 6436,
     "timeDay": 16954,
@@ -193,7 +193,7 @@
     "timeMonth": 9071,
     "timeYear": 6901,
     "dailyMinutesDown": {
-      "2025-12-10": 127,
+      "2025-12-10": 114,
       "2025-12-08": 31,
       "2025-12-07": 24,
       "2025-12-06": 45,
@@ -240,7 +240,8 @@
       "2025-09-30": 16,
       "2025-09-27": 185,
       "2025-09-26": 121,
-      "2025-09-23": 141
+      "2025-09-23": 141,
+      "2025-09-21": 21
     }
   },
   {
@@ -249,7 +250,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/revistas.unimonserrate.edu.co.ico",
     "slug": "revistas-y-publicaciones",
     "status": "up",
-    "uptime": "77.36%",
+    "uptime": "77.37%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
     "uptimeMonth": "99.27%",
