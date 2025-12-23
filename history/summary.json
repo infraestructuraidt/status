@@ -4,18 +4,19 @@
     "url": "https://www.unimonserrate.edu.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unimonserrate.edu.co.ico",
     "slug": "sitio-web-unimonserrate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "98.63%",
+    "uptimeDay": "98.62%",
     "uptimeWeek": "98.18%",
-    "uptimeMonth": "95.49%",
+    "uptimeMonth": "95.58%",
     "uptimeYear": "99.17%",
-    "time": 1695,
-    "timeDay": 852,
-    "timeWeek": 878,
-    "timeMonth": 1111,
-    "timeYear": 1613,
+    "time": 1693,
+    "timeDay": 751,
+    "timeWeek": 865,
+    "timeMonth": 1109,
+    "timeYear": 1611,
     "dailyMinutesDown": {
+      "2025-12-23": 0,
       "2025-12-22": 20,
       "2025-12-21": 39,
       "2025-12-20": 30,
@@ -78,8 +79,7 @@
       "2025-08-01": 26,
       "2025-07-31": 56,
       "2025-07-04": 32,
-      "2025-06-22": 25,
-      "2025-06-19": 17
+      "2025-06-22": 25
     }
   },
   {
