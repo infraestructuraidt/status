@@ -107,19 +107,19 @@
     "url": "https://unimonserrate-library.ohelit.co/",
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "97.77%",
+    "uptimeDay": "97.73%",
     "uptimeWeek": "97.74%",
     "uptimeMonth": "98.27%",
-    "uptimeYear": "99.28%",
-    "time": 2904,
+    "uptimeYear": "99.29%",
+    "time": 2907,
     "timeDay": 395,
     "timeWeek": 4127,
     "timeMonth": 4607,
     "timeYear": 3136,
     "dailyMinutesDown": {
-      "2025-12-26": 32,
+      "2025-12-26": 33,
       "2025-12-24": 34,
       "2025-12-23": 35,
       "2025-12-22": 61,
@@ -176,8 +176,7 @@
       "2025-07-23": 105,
       "2025-07-22": 79,
       "2025-07-21": 63,
-      "2025-07-20": 181,
-      "2025-07-19": 17
+      "2025-07-20": 181
     }
   },
   {
@@ -320,7 +319,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mesadeayuda.unimonserrate.edu.co.ico",
     "slug": "cau-cae",
     "status": "up",
-    "uptime": "70.42%",
+    "uptime": "70.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "98.89%",
