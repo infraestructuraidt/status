@@ -6,12 +6,12 @@
     "slug": "sitio-web-unimonserrate",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "83.56%",
+    "uptimeDay": "87.58%",
     "uptimeWeek": "88.41%",
     "uptimeMonth": "89.73%",
     "uptimeYear": "99.00%",
     "time": 1440,
-    "timeDay": 631,
+    "timeDay": 695,
     "timeWeek": 1393,
     "timeMonth": 978,
     "timeYear": 1380,
@@ -63,18 +63,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate.ohelit.co.ico",
     "slug": "olimpo-2-0",
     "status": "down",
-    "uptime": "90.70%",
+    "uptime": "90.69%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.99%",
+    "uptimeYear": "84.98%",
     "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-02-21": 1438,
+      "2026-02-22": 57,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -140,18 +141,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "down",
-    "uptime": "90.36%",
+    "uptime": "90.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.44%",
+    "uptimeYear": "84.43%",
     "time": 2878,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3277,
     "dailyMinutesDown": {
-      "2026-02-21": 1438,
+      "2026-02-22": 58,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -270,18 +272,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "down",
-    "uptime": "90.25%",
+    "uptime": "90.24%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.25%",
+    "uptimeYear": "84.24%",
     "time": 6676,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7417,
     "dailyMinutesDown": {
-      "2026-02-21": 1438,
+      "2026-02-22": 58,
+      "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,
       "2026-02-18": 1440,
@@ -431,8 +434,7 @@
       "2025-03-08": 26,
       "2025-03-05": 1199,
       "2025-03-04": 156,
-      "2025-03-01": 26,
-      "2025-02-22": 26
+      "2025-03-01": 26
     }
   },
   {
@@ -511,8 +513,7 @@
       "2025-03-08": 26,
       "2025-03-05": 1199,
       "2025-03-04": 155,
-      "2025-03-01": 26,
-      "2025-02-22": 26
+      "2025-03-01": 26
     }
   },
   {
@@ -616,8 +617,7 @@
       "2025-03-08": 26,
       "2025-03-05": 1199,
       "2025-03-04": 138,
-      "2025-03-01": 26,
-      "2025-02-22": 26
+      "2025-03-01": 26
     }
   },
   {
@@ -715,8 +715,7 @@
       "2025-03-08": 26,
       "2025-03-05": 1199,
       "2025-03-04": 138,
-      "2025-03-01": 26,
-      "2025-02-22": 26
+      "2025-03-01": 26
     }
   },
   {
@@ -873,8 +872,7 @@
       "2025-03-08": 26,
       "2025-03-05": 1199,
       "2025-03-04": 137,
-      "2025-03-01": 26,
-      "2025-02-22": 26
+      "2025-03-01": 26
     }
   }
 ]
