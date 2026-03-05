@@ -4,19 +4,19 @@
     "url": "https://www.unimonserrate.edu.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unimonserrate.edu.co.ico",
     "slug": "sitio-web-unimonserrate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "91.98%",
-    "uptimeWeek": "88.26%",
-    "uptimeMonth": "90.81%",
-    "uptimeYear": "98.95%",
-    "time": 1390,
-    "timeDay": 716,
-    "timeWeek": 1210,
-    "timeMonth": 1118,
+    "uptimeDay": "88.99%",
+    "uptimeWeek": "88.41%",
+    "uptimeMonth": "90.96%",
+    "uptimeYear": "98.94%",
+    "time": 1389,
+    "timeDay": 839,
+    "timeWeek": 1042,
+    "timeMonth": 1127,
     "timeYear": 1362,
     "dailyMinutesDown": {
-      "2026-03-04": 115,
+      "2026-03-04": 158,
       "2026-03-03": 231,
       "2026-03-02": 136,
       "2026-03-01": 336,
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate.ohelit.co.ico",
     "slug": "olimpo-2-0",
     "status": "down",
-    "uptime": "89.08%",
+    "uptime": "89.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "82.06%",
+    "uptimeYear": "81.96%",
     "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2026-03-04": 1004,
+      "2026-03-05": 57,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -150,18 +151,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "down",
-    "uptime": "88.75%",
+    "uptime": "88.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.51%",
-    "time": 2899,
+    "uptimeYear": "81.41%",
+    "time": 2900,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3316,
+    "timeYear": 3320,
     "dailyMinutesDown": {
-      "2026-03-04": 1004,
+      "2026-03-05": 57,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -291,18 +293,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "down",
-    "uptime": "88.64%",
+    "uptime": "88.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.32%",
+    "uptimeYear": "81.23%",
     "time": 6705,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 7468,
+    "timeYear": 7473,
     "dailyMinutesDown": {
-      "2026-03-04": 1004,
+      "2026-03-05": 57,
+      "2026-03-04": 1440,
       "2026-03-03": 1440,
       "2026-03-02": 1440,
       "2026-03-01": 1440,
@@ -400,11 +403,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.26%",
+    "uptimeYear": "99.30%",
     "time": 619,
-    "timeDay": 440,
-    "timeWeek": 565,
-    "timeMonth": 564,
+    "timeDay": 576,
+    "timeWeek": 576,
+    "timeMonth": 566,
     "timeYear": 602,
     "dailyMinutesDown": {
       "2026-02-28": 57,
@@ -461,8 +464,7 @@
       "2025-03-29": 27,
       "2025-03-22": 58,
       "2025-03-15": 26,
-      "2025-03-08": 26,
-      "2025-03-05": 1199
+      "2025-03-08": 26
     }
   },
   {
@@ -475,11 +477,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.44%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.24%",
     "time": 522,
-    "timeDay": 599,
-    "timeWeek": 489,
-    "timeMonth": 610,
+    "timeDay": 522,
+    "timeWeek": 491,
+    "timeMonth": 614,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-02-28": 57,
@@ -539,8 +541,7 @@
       "2025-03-29": 27,
       "2025-03-22": 58,
       "2025-03-15": 26,
-      "2025-03-08": 26,
-      "2025-03-05": 1199
+      "2025-03-08": 26
     }
   },
   {
@@ -553,11 +554,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.00%",
-    "uptimeYear": "97.11%",
-    "time": 853,
-    "timeDay": 687,
+    "uptimeYear": "97.15%",
+    "time": 854,
+    "timeDay": 802,
     "timeWeek": 791,
-    "timeMonth": 769,
+    "timeMonth": 771,
     "timeYear": 847,
     "dailyMinutesDown": {
       "2026-02-28": 93,
@@ -643,8 +644,7 @@
       "2025-03-29": 27,
       "2025-03-22": 57,
       "2025-03-15": 26,
-      "2025-03-08": 26,
-      "2025-03-05": 1199
+      "2025-03-08": 26
     }
   },
   {
@@ -657,10 +657,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.08%",
     "uptimeMonth": "99.00%",
-    "uptimeYear": "98.77%",
-    "time": 962,
-    "timeDay": 769,
-    "timeWeek": 789,
+    "uptimeYear": "98.81%",
+    "time": 961,
+    "timeDay": 860,
+    "timeWeek": 795,
     "timeMonth": 846,
     "timeYear": 861,
     "dailyMinutesDown": {
@@ -741,8 +741,7 @@
       "2025-03-29": 27,
       "2025-03-22": 57,
       "2025-03-15": 26,
-      "2025-03-08": 26,
-      "2025-03-05": 1199
+      "2025-03-08": 26
     }
   },
   {
@@ -757,10 +756,10 @@
     "uptimeMonth": "99.50%",
     "uptimeYear": "99.58%",
     "time": 398,
-    "timeDay": 281,
-    "timeWeek": 342,
-    "timeMonth": 394,
-    "timeYear": 385,
+    "timeDay": 412,
+    "timeWeek": 357,
+    "timeMonth": 396,
+    "timeYear": 386,
     "dailyMinutesDown": {
       "2026-02-28": 57,
       "2026-02-21": 66,
@@ -804,8 +803,7 @@
       "2025-04-24": 7,
       "2025-04-13": 23,
       "2025-04-06": 18,
-      "2025-03-21": 37,
-      "2025-03-05": 29
+      "2025-03-21": 37
     }
   },
   {
@@ -818,12 +816,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
     "uptimeMonth": "99.50%",
-    "uptimeYear": "98.33%",
-    "time": 1410,
-    "timeDay": 1467,
-    "timeWeek": 1938,
-    "timeMonth": 1490,
-    "timeYear": 1557,
+    "uptimeYear": "98.37%",
+    "time": 1409,
+    "timeDay": 616,
+    "timeWeek": 1599,
+    "timeMonth": 1491,
+    "timeYear": 1555,
     "dailyMinutesDown": {
       "2026-02-28": 57,
       "2026-02-21": 66,
@@ -898,8 +896,7 @@
       "2025-03-15": 26,
       "2025-03-10": 848,
       "2025-03-09": 908,
-      "2025-03-08": 26,
-      "2025-03-05": 1199
+      "2025-03-08": 26
     }
   }
 ]
