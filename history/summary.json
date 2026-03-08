@@ -8,12 +8,12 @@
     "uptime": "99.73%",
     "uptimeDay": "90.64%",
     "uptimeWeek": "88.60%",
-    "uptimeMonth": "91.27%",
+    "uptimeMonth": "91.44%",
     "uptimeYear": "98.92%",
     "time": 1381,
-    "timeDay": 1013,
-    "timeWeek": 1084,
-    "timeMonth": 1143,
+    "timeDay": 970,
+    "timeWeek": 1080,
+    "timeMonth": 1146,
     "timeYear": 1353,
     "dailyMinutesDown": {
       "2026-03-07": 135,
@@ -62,18 +62,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate.ohelit.co.ico",
     "slug": "olimpo-2-0",
     "status": "down",
-    "uptime": "88.59%",
+    "uptime": "88.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "81.16%",
+    "uptimeYear": "81.14%",
     "time": 205,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 215,
     "dailyMinutesDown": {
-      "2026-03-07": 1406,
+      "2026-03-08": 57,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -153,18 +154,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "down",
-    "uptime": "88.27%",
+    "uptime": "88.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "80.61%",
+    "uptimeYear": "80.59%",
     "time": 2904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 3334,
     "dailyMinutesDown": {
-      "2026-03-07": 1406,
+      "2026-03-08": 58,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -301,14 +303,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "80.42%",
+    "uptimeYear": "80.40%",
     "time": 6717,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7492,
     "dailyMinutesDown": {
-      "2026-03-07": 1406,
+      "2026-03-08": 58,
+      "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
       "2026-03-04": 1440,
@@ -411,9 +414,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.50%",
     "time": 618,
-    "timeDay": 577,
+    "timeDay": 581,
     "timeWeek": 575,
-    "timeMonth": 567,
+    "timeMonth": 565,
     "timeYear": 603,
     "dailyMinutesDown": {
       "2026-03-07": 87,
@@ -470,8 +473,7 @@
       "2025-04-12": 27,
       "2025-03-29": 27,
       "2025-03-22": 58,
-      "2025-03-15": 26,
-      "2025-03-08": 26
+      "2025-03-15": 26
     }
   },
   {
@@ -486,9 +488,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.44%",
     "time": 522,
-    "timeDay": 447,
+    "timeDay": 425,
     "timeWeek": 471,
-    "timeMonth": 611,
+    "timeMonth": 615,
     "timeYear": 522,
     "dailyMinutesDown": {
       "2026-03-07": 87,
@@ -548,8 +550,7 @@
       "2025-04-12": 27,
       "2025-03-29": 27,
       "2025-03-22": 58,
-      "2025-03-15": 26,
-      "2025-03-08": 26
+      "2025-03-15": 26
     }
   },
   {
@@ -564,9 +565,9 @@
     "uptimeMonth": "98.96%",
     "uptimeYear": "97.35%",
     "time": 852,
-    "timeDay": 887,
+    "timeDay": 885,
     "timeWeek": 847,
-    "timeMonth": 791,
+    "timeMonth": 790,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2026-03-07": 120,
@@ -652,8 +653,7 @@
       "2025-04-05": 20,
       "2025-03-29": 27,
       "2025-03-22": 57,
-      "2025-03-15": 26,
-      "2025-03-08": 26
+      "2025-03-15": 26
     }
   },
   {
@@ -668,9 +668,9 @@
     "uptimeMonth": "98.96%",
     "uptimeYear": "99.00%",
     "time": 960,
-    "timeDay": 785,
+    "timeDay": 747,
     "timeWeek": 826,
-    "timeMonth": 845,
+    "timeMonth": 843,
     "timeYear": 858,
     "dailyMinutesDown": {
       "2026-03-07": 120,
@@ -750,8 +750,7 @@
       "2025-04-05": 20,
       "2025-03-29": 27,
       "2025-03-22": 57,
-      "2025-03-15": 26,
-      "2025-03-08": 26
+      "2025-03-15": 26
     }
   },
   {
@@ -760,13 +759,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "78.64%",
+    "uptime": "78.65%",
     "uptimeDay": "93.94%",
     "uptimeWeek": "99.13%",
     "uptimeMonth": "99.45%",
     "uptimeYear": "99.57%",
     "time": 399,
-    "timeDay": 407,
+    "timeDay": 355,
     "timeWeek": 376,
     "timeMonth": 402,
     "timeYear": 387,
@@ -829,9 +828,9 @@
     "uptimeMonth": "99.45%",
     "uptimeYear": "98.57%",
     "time": 1459,
-    "timeDay": 8685,
+    "timeDay": 12740,
     "timeWeek": 4388,
-    "timeMonth": 2292,
+    "timeMonth": 2304,
     "timeYear": 1619,
     "dailyMinutesDown": {
       "2026-03-07": 87,
@@ -907,8 +906,7 @@
       "2025-03-17": 16,
       "2025-03-15": 26,
       "2025-03-10": 848,
-      "2025-03-09": 908,
-      "2025-03-08": 26
+      "2025-03-09": 908
     }
   }
 ]
