@@ -4,18 +4,19 @@
     "url": "https://www.unimonserrate.edu.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unimonserrate.edu.co.ico",
     "slug": "sitio-web-unimonserrate",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "85.81%",
-    "uptimeWeek": "89.56%",
+    "uptimeDay": "85.79%",
+    "uptimeWeek": "89.55%",
     "uptimeMonth": "92.20%",
-    "uptimeYear": "98.65%",
-    "time": 1299,
-    "timeDay": 906,
-    "timeWeek": 988,
-    "timeMonth": 981,
-    "timeYear": 1259,
+    "uptimeYear": "98.66%",
+    "time": 1297,
+    "timeDay": 900,
+    "timeWeek": 995,
+    "timeMonth": 978,
+    "timeYear": 1258,
     "dailyMinutesDown": {
+      "2026-04-26": 0,
       "2026-04-25": 204,
       "2026-04-22": 174,
       "2026-04-21": 163,
@@ -57,7 +58,7 @@
       "2026-03-11": 433,
       "2026-03-10": 641,
       "2026-03-09": 241,
-      "2026-03-08": 113
+      "2026-03-08": 82
     }
   },
   {
@@ -66,18 +67,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate.ohelit.co.ico",
     "slug": "olimpo-2-0",
     "status": "down",
-    "uptime": "81.99%",
+    "uptime": "81.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.85%",
+    "uptimeYear": "67.72%",
     "time": 207,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 225,
+    "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-04-25": 842,
+      "2026-04-26": 75,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -205,18 +207,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library.ohelit.co.ico",
     "slug": "koha-estudiantes",
     "status": "down",
-    "uptime": "81.69%",
+    "uptime": "81.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.29%",
-    "time": 3182,
+    "uptimeYear": "67.16%",
+    "time": 3185,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 3643,
+    "timeYear": 3648,
     "dailyMinutesDown": {
-      "2026-04-25": 843,
+      "2026-04-26": 75,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -398,18 +401,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/unimonserrate-library-intra.ohelit.co.ico",
     "slug": "koha-administrativos",
     "status": "down",
-    "uptime": "81.58%",
+    "uptime": "81.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "67.10%",
-    "time": 7271,
+    "uptimeYear": "66.98%",
+    "time": 7276,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 7892,
+    "timeYear": 7898,
     "dailyMinutesDown": {
-      "2026-04-25": 843,
+      "2026-04-26": 75,
+      "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
       "2026-04-22": 1440,
@@ -561,10 +565,10 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.49%",
     "time": 598,
-    "timeDay": 608,
-    "timeWeek": 607,
-    "timeMonth": 602,
-    "timeYear": 606,
+    "timeDay": 466,
+    "timeWeek": 611,
+    "timeMonth": 596,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2026-04-11": 36,
       "2026-04-04": 35,
@@ -619,8 +623,7 @@
       "2025-05-24": 28,
       "2025-05-17": 28,
       "2025-05-10": 29,
-      "2025-05-03": 29,
-      "2025-04-26": 27
+      "2025-05-03": 29
     }
   },
   {
@@ -635,9 +638,9 @@
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.43%",
     "time": 517,
-    "timeDay": 451,
-    "timeWeek": 454,
-    "timeMonth": 516,
+    "timeDay": 389,
+    "timeWeek": 465,
+    "timeMonth": 515,
     "timeYear": 520,
     "dailyMinutesDown": {
       "2026-04-11": 36,
@@ -696,8 +699,7 @@
       "2025-05-24": 28,
       "2025-05-17": 28,
       "2025-05-10": 29,
-      "2025-05-03": 29,
-      "2025-04-26": 27
+      "2025-05-03": 29
     }
   },
   {
@@ -712,9 +714,9 @@
     "uptimeMonth": "97.74%",
     "uptimeYear": "97.14%",
     "time": 842,
-    "timeDay": 661,
-    "timeWeek": 781,
-    "timeMonth": 816,
+    "timeDay": 600,
+    "timeWeek": 774,
+    "timeMonth": 813,
     "timeYear": 848,
     "dailyMinutesDown": {
       "2026-04-25": 72,
@@ -804,8 +806,7 @@
       "2025-05-17": 51,
       "2025-05-15": 24,
       "2025-05-10": 50,
-      "2025-05-03": 51,
-      "2025-04-26": 65
+      "2025-05-03": 51
     }
   },
   {
@@ -820,10 +821,10 @@
     "uptimeMonth": "97.74%",
     "uptimeYear": "98.80%",
     "time": 896,
-    "timeDay": 705,
-    "timeWeek": 856,
-    "timeMonth": 821,
-    "timeYear": 863,
+    "timeDay": 659,
+    "timeWeek": 852,
+    "timeMonth": 815,
+    "timeYear": 862,
     "dailyMinutesDown": {
       "2026-04-25": 73,
       "2026-04-18": 63,
@@ -906,8 +907,7 @@
       "2025-05-17": 51,
       "2025-05-15": 24,
       "2025-05-10": 50,
-      "2025-05-03": 51,
-      "2025-04-26": 65
+      "2025-05-03": 51
     }
   },
   {
@@ -916,15 +916,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/academusoft.unimonserrate.edu.co.ico",
     "slug": "academusoft",
     "status": "up",
-    "uptime": "79.33%",
+    "uptime": "79.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.56%",
     "time": 373,
-    "timeDay": 480,
-    "timeWeek": 432,
-    "timeMonth": 382,
+    "timeDay": 273,
+    "timeWeek": 397,
+    "timeMonth": 380,
     "timeYear": 398,
     "dailyMinutesDown": {
       "2026-04-11": 36,
@@ -984,11 +984,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "98.98%",
-    "time": 1541,
-    "timeDay": 3300,
-    "timeWeek": 2446,
-    "timeMonth": 2149,
-    "timeYear": 1564,
+    "time": 1549,
+    "timeDay": 5106,
+    "timeWeek": 2826,
+    "timeMonth": 2142,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2026-04-11": 36,
       "2026-04-04": 35,
@@ -1056,8 +1056,7 @@
       "2025-05-24": 28,
       "2025-05-17": 28,
       "2025-05-10": 29,
-      "2025-05-03": 48,
-      "2025-04-26": 27
+      "2025-05-03": 48
     }
   }
 ]
