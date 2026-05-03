@@ -1,7 +1,7 @@
 url: https://uvirtual.unimonserrate.edu.co/
-status: up
-code: 200
-responseTime: 740
-lastUpdated: 2026-05-02T23:48:44.029Z
+status: down
+code: 502
+responseTime: 326
+lastUpdated: 2026-05-03T06:28:03.409Z
 startTime: 2022-02-07T15:01:42.000Z
 generator: Upptime <https://github.com/upptime/upptime>
