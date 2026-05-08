@@ -5,17 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.unimonserrate.edu.co.ico",
     "slug": "sitio-web-unimonserrate",
     "status": "down",
-    "uptime": "99.67%",
-    "uptimeDay": "96.26%",
-    "uptimeWeek": "93.87%",
-    "uptimeMonth": "91.41%",
-    "uptimeYear": "98.61%",
+    "uptime": "99.68%",
+    "uptimeDay": "95.97%",
+    "uptimeWeek": "93.83%",
+    "uptimeMonth": "91.40%",
+    "uptimeYear": "98.63%",
     "time": 1305,
     "timeDay": 617,
     "timeWeek": 861,
     "timeMonth": 986,
     "timeYear": 1242,
     "dailyMinutesDown": {
+      "2026-05-08": 4,
       "2026-05-07": 54,
       "2026-05-05": 441,
       "2026-05-03": 58,
@@ -61,7 +62,7 @@
       "2026-03-14": 36,
       "2026-03-13": 134,
       "2026-03-12": 177,
-      "2026-03-11": 333
+      "2026-03-11": 220
     }
   },
   {
@@ -81,7 +82,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-05-08": 87,
+      "2026-05-08": 89,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -233,7 +234,7 @@
     "timeMonth": 0,
     "timeYear": 3773,
     "dailyMinutesDown": {
-      "2026-05-08": 87,
+      "2026-05-08": 89,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
@@ -432,14 +433,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "63.69%",
+    "uptimeYear": "63.68%",
     "time": 7713,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 7926,
     "dailyMinutesDown": {
-      "2026-05-08": 87,
+      "2026-05-08": 89,
       "2026-05-07": 1440,
       "2026-05-06": 1440,
       "2026-05-05": 1440,
