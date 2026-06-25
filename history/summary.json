@@ -4,16 +4,16 @@
     "url": "https://www.unimonserrate.edu.co/",
     "icon": "https://icons.duckduckgo.com/ip3/www.unimonserrate.edu.co.ico",
     "slug": "sitio-web-unimonserrate",
-    "status": "down",
+    "status": "up",
     "uptime": "99.32%",
-    "uptimeDay": "95.11%",
-    "uptimeWeek": "78.67%",
-    "uptimeMonth": "77.76%",
+    "uptimeDay": "94.90%",
+    "uptimeWeek": "78.64%",
+    "uptimeMonth": "77.75%",
     "uptimeYear": "97.02%",
     "time": 1264,
-    "timeDay": 432,
+    "timeDay": 607,
     "timeWeek": 740,
-    "timeMonth": 939,
+    "timeMonth": 941,
     "timeYear": 1182,
     "dailyMinutesDown": {
       "2026-04-15": 166,
@@ -72,7 +72,7 @@
       "2026-06-22": 83,
       "2026-06-23": 347,
       "2026-06-24": 69,
-      "2026-06-25": 1
+      "2026-06-25": 4
     }
   },
   {
@@ -93,7 +93,7 @@
     "timeYear": 232,
     "dailyMinutesDown": {
       "2025-11-18": 187,
-      "2026-06-25": 16,
+      "2026-06-25": 20,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -348,7 +348,7 @@
       "2025-12-27": 80,
       "2025-12-28": 129,
       "2025-12-29": 475,
-      "2026-06-25": 16,
+      "2026-06-25": 20,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -566,7 +566,7 @@
       "2025-12-27": 542,
       "2025-12-28": 697,
       "2025-12-29": 740,
-      "2026-06-25": 16,
+      "2026-06-25": 21,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
@@ -759,7 +759,7 @@
     "uptimeYear": "97.45%",
     "time": 593,
     "timeDay": 541,
-    "timeWeek": 481,
+    "timeWeek": 487,
     "timeMonth": 551,
     "timeYear": 601,
     "dailyMinutesDown": {
@@ -833,7 +833,7 @@
     "uptimeYear": "97.40%",
     "time": 511,
     "timeDay": 420,
-    "timeWeek": 431,
+    "timeWeek": 438,
     "timeMonth": 468,
     "timeYear": 516,
     "dailyMinutesDown": {
@@ -911,7 +911,7 @@
     "uptimeYear": "96.12%",
     "time": 834,
     "timeDay": 886,
-    "timeWeek": 742,
+    "timeWeek": 753,
     "timeMonth": 801,
     "timeYear": 842,
     "dailyMinutesDown": {
@@ -1015,7 +1015,7 @@
     "uptimeYear": "96.77%",
     "time": 857,
     "timeDay": 1019,
-    "timeWeek": 849,
+    "timeWeek": 863,
     "timeMonth": 850,
     "timeYear": 864,
     "dailyMinutesDown": {
@@ -1117,7 +1117,7 @@
     "uptimeYear": "97.49%",
     "time": 378,
     "timeDay": 330,
-    "timeWeek": 329,
+    "timeWeek": 339,
     "timeMonth": 341,
     "timeYear": 353,
     "dailyMinutesDown": {
@@ -1188,7 +1188,7 @@
     "uptimeYear": "96.93%",
     "time": 1819,
     "timeDay": 538,
-    "timeWeek": 3041,
+    "timeWeek": 3400,
     "timeMonth": 1699,
     "timeYear": 1764,
     "dailyMinutesDown": {
